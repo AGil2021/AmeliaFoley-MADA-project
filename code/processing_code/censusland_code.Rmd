@@ -16,6 +16,7 @@ library(tidyverse)
 
 library(tidyverse)
 library(dplyr) #data wrangling
+install.packages('tidycensus')
 library(tidycensus) #access census data
 library(censusapi)
 library(rerddap)
